@@ -27,5 +27,16 @@ Data after encoding
 
 ## Model Selection
 After apply different types of classification, the accuracy for different algorithms was determined using the confusing matrix.
+![Screenshot (150)](https://user-images.githubusercontent.com/44607923/68867843-7e707780-071c-11ea-84bc-032fb956bb03.png)
 
+This image shows the confusion matrix for Random Forest Classification.
+The accuracies for different algorithms are as follows:
+1. Logistic Regression : 97.66 %
+2. K-Nearest Neighbors : 95.91 % 
+3. Support Vector Machines : 95.91 %
+4. Kernel SVM : 97.66 %
+5. Naïve Bayes : 91.22 %
+6. Decision Tree Algorithm : 93.57 %
+7. Random Forest Classification : 96.49 %
+It can be observed that Logistic Regression and Kernel SVM give the highest accuracy.
 
