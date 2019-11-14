@@ -20,5 +20,9 @@ We need to encode the dependent variable into 0's and 1's, where 1 means M (mali
  
  ### Applying feature scaling
 The dataset contains features highly varying in magnitudes, units and range hence, we need to apply feature scaling here. It is done using  StandardScaler method from SciKit-Learn library.
+![Screenshot (167)](https://user-images.githubusercontent.com/44607923/68866955-2e44e580-071b-11ea-91d2-e7a35dc3ece5.png)
+Data before encoding
+![Screenshot (168)](https://user-images.githubusercontent.com/44607923/68867134-57fe0c80-071b-11ea-8069-c259b7605cc9.png)
+Data after encoding
 
 
