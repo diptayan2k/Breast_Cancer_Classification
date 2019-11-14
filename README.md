@@ -11,6 +11,7 @@ Here, we can see that the dataset contains  569 rows and 33 columns.
 Here, ‘Diagnosis’ is the column which we are going to predict and hence it is the dependent variable , which says if the cancer is M = malignant or B = benign. 
 
 ## Data Preprocessing
+### Encoding the categorical data
 We need to encode the data into 0's and 1's, where 1 means M (malignant) and 0 means B(benign). It is done using LabelEncoder.
 
  ![Screenshot (164)](https://user-images.githubusercontent.com/44607923/68865301-9e05a100-0718-11ea-980d-d384f47ce86f.png)
