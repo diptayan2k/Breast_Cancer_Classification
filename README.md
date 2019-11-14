@@ -25,4 +25,7 @@ Data before encoding
 ![Screenshot (168)](https://user-images.githubusercontent.com/44607923/68867134-57fe0c80-071b-11ea-8069-c259b7605cc9.png)
 Data after encoding
 
+## Model Selection
+After apply different types of classification, the accuracy for different algorithms was determined using the confusing matrix.
+
 
