@@ -27,6 +27,7 @@ Data after encoding
 
 ## Model Selection
 After apply different types of classification, the accuracy for different algorithms was determined using the confusing matrix.
+
 ![Screenshot (150)](https://user-images.githubusercontent.com/44607923/68867843-7e707780-071c-11ea-84bc-032fb956bb03.png)
 
 This image shows the confusion matrix for Random Forest Classification.
