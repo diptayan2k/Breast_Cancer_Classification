@@ -12,7 +12,7 @@ Here, ‘Diagnosis’ is the column which we are going to predict and hence it i
 
 ## Data Preprocessing
 ### Encoding the categorical data
-We need to encode the data into 0's and 1's, where 1 means M (malignant) and 0 means B(benign). It is done using LabelEncoder.
+We need to encode the dependent variable into 0's and 1's, where 1 means M (malignant) and 0 means B(benign). It is done using LabelEncoder.
 
  ![Screenshot (164)](https://user-images.githubusercontent.com/44607923/68865301-9e05a100-0718-11ea-980d-d384f47ce86f.png)
  
